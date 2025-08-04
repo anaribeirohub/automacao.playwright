@@ -1,0 +1,288 @@
+{
+  "MASSAS": {
+    "dev": {
+      "usuario_valido": {
+        "login": "sorayamuniz@gmail.comx",
+        "password": "041858"
+      },
+      "usuario_inexistente": {
+        "login": "testedo.teste@gmail.com",
+        "password": "041858"
+      },
+      "usuario_valido_senha_invalida": {
+        "login": "danyyhm@hotmail.comx",
+        "password": "142365"
+      },
+      "usuario_invalido": {
+        "login": "sorayamuniz@gmail.com.brx",
+        "password": "041858"
+      },
+      "email_com_previdencia": {
+        "login": "fernandorobertodossantos@yahoo.com.brx",
+        "password": "041858"
+      },
+      "email_trader_cockpit": {
+        "login": "rl.fonseca@hotmail.comx",
+        "password": "041858"
+      },
+      "email_sem_saldo": {
+        "login": "helenaduppre@hotmail.comx",
+        "password": "041858"
+      },
+      "email_com_investimento": {
+        "login": "anaclara@genialinvestimentos.com.brx",
+        "password": "041858"
+      },
+      "email_open_finance": {
+        "login": "william@criatio.comx",
+        "password": "041858"
+      },
+      "email_regatar_fundos": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      },
+      "email_carteira": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      }
+    },
+    "hml": {
+      "usuario_valido": {
+        "login": "danyyhm@hotmail.comx",
+        "password": "041858"
+      },
+      "usuario_inexistente": {
+        "login": "testedo.teste@gmail.com",
+        "password": "041858"
+      },
+      "usuario_valido_senha_invalida": {
+        "login": "danyyhm@hotmail.comx",
+        "password": "142365"
+      },
+      "usuario_invalido": {
+        "login": "sorayamuniz@gmail.com.brx",
+        "password": "041858"
+      },
+      "email_com_previdencia": {
+        "login": "fernandorobertodossantos@yahoo.com.brx",
+        "password": "041858"
+      },
+      "email_trader_cockpit": {
+        "login": "rl.fonseca@hotmail.comx",
+        "password": "041858"
+      },
+      "email_sem_saldo": {
+        "login": "helenaduppre@hotmail.comx",
+        "password": "041858"
+      },
+      "email_com_investimento": {
+        "login": "anaclara@genialinvestimentos.com.brx",
+        "password": "041858"
+      },
+      "email_open_finance": {
+        "login": "william@criatio.comx",
+        "password": "041858"
+      },
+      "email_rentabilidade": {
+        "login": "leandrobit@yahoo.com.brx",
+        "password": "041858"
+      },
+      "email_consorcio": {
+        "login": "rodrigopirate@hotmail.comx",
+        "password": "041858"
+      },
+      "email_regatar_fundos": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      },
+      "email_carteira": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      }
+    },
+    "prd": {
+      "usuario_valido": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "usuario_inexistente": {
+        "login": "testedo.teste@gmail.com",
+        "password": "041858"
+      },
+      "usuario_valido_senha_invalida": {
+        "login": "sorayamuniz@gmail.comx",
+        "password": "142365"
+      },
+      "usuario_invalido": {
+        "login": "alexandre.squadp@genial.com.br",
+        "password": "041858"
+      },
+      "email_com_previdencia": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_trader_cockpit": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_sem_saldo": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_com_investimento": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_open_finance": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_regatar_fundos": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      },
+      "email_carteira": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      }
+    },
+    "pre_prd": {
+      "usuario_valido": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "usuario_inexistente": {
+        "login": "testedo.teste@gmail.com",
+        "password": "041858"
+      },
+      "usuario_valido_senha_invalida": {
+        "login": "sorayamuniz@gmail.comx",
+        "password": "142365"
+      },
+      "usuario_invalido": {
+        "login": "alexandre.squadp@genial.com.br",
+        "password": "041858"
+      },
+      "email_com_previdencia": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_trader_cockpit": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_sem_saldo": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_com_investimento": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_open_finance": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_regatar_fundos": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      },
+      "email_carteira": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      }
+    },
+    "pre_prd_02": {
+      "usuario_valido": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "usuario_inexistente": {
+        "login": "testedo.teste@gmail.com",
+        "password": "041858"
+      },
+      "usuario_valido_senha_invalida": {
+        "login": "sorayamuniz@gmail.comx",
+        "password": "142365"
+      },
+      "usuario_invalido": {
+        "login": "alexandre.squadp@genial.com.br",
+        "password": "041858"
+      },
+      "email_com_previdencia": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_trader_cockpit": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_sem_saldo": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_com_investimento": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_open_finance": {
+        "login": "alexandre.squadp@genial.com.vc",
+        "password": "041858"
+      },
+      "email_regatar_fundos": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      },
+      "email_carteira": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      }
+    },
+    "qa": {
+      "usuario_valido": {
+        "login": "sorayamuniz@gmail.comx",
+        "password": "041858"
+      },
+      "usuario_inexistente": {
+        "login": "testedo.teste@gmail.com",
+        "password": "041858"
+      },
+      "usuario_valido_senha_invalida": {
+        "login": "sorayamuniz@gmail.comx",
+        "password": "142365"
+      },
+      "usuario_invalido": {
+        "login": "sorayamuniz@gmail.com.brx",
+        "password": "041858"
+      },
+      "email_com_previdencia": {
+        "login": "fernandorobertodossantos@yahoo.com.brx",
+        "password": "041858"
+      },
+      "email_trader_cockpit": {
+        "login": "rl.fonseca@hotmail.comx",
+        "password": "041858"
+      },
+      "email_sem_saldo": {
+        "login": "helenaduppre@hotmail.comx",
+        "password": "041858"
+      },
+      "email_com_investimento": {
+        "login": "anaclara@genialinvestimentos.com.brx",
+        "password": "041858"
+      },
+      "email_open_finance": {
+        "login": "william@criatio.comx",
+        "password": "041858"
+      },
+      "email_regatar_fundos": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      },
+      "email_carteira": {
+        "login": "fmura@uol.com.brx",
+        "password": "041858"
+      }
+    }
+  }
+}

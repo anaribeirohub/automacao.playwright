@@ -1,0 +1,21 @@
+{
+  "name": "genial",
+  "version": "3.1.1",
+  "description": "Playwright with Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cucumber-js"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "10.8.0",
+    "@playwright/test": "1.44.1",
+    "ts-node": "10.9.2",
+    "typescript": "5.4.5"
+  },
+  "devDependencies": {
+    "@cucumber/pretty-formatter": "1.0.1",
+    "@types/node": "20.14.2",
+    "cross-env": "7.0.3",
+    "cucumber-html-reporter": "7.1.1"
+  }
+}

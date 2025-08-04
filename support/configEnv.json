@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "plataforma": {
+      "BASE_URL": "https://www.saucedemo.com"
+    }
+  },
+  "hml": {
+    "plataforma": {
+      "BASE_URL": "https://www.saucedemo.com"
+    }
+  },
+  "prd": {
+    "plataforma": {
+      "BASE_URL": "https://www.saucedemo.com"
+    }
+  },
+  "pre_prd": {
+    "plataforma": {
+      "BASE_URL": "https://www.saucedemo.com"
+    }
+  },
+  "qa": {
+    "plataforma": {
+      "BASE_URL": "https://www.saucedemo.com"
+    }
+  }
+}
+

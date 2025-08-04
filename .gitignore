@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# misc
+/.DS_Store
+
+## playwright files
+/.vscode
+/playwright/.cache
+/test-results
+/blob-report
+
+# playwright generated reports
+/reports/*.html
+/reports/*.json
+/reports/*.png
